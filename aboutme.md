@@ -24,7 +24,7 @@ TeachMentor is my first project, currently in development. It's a website aimed 
 
 ## Contact
 - **LinkedIn:** [Narek Chqolian](link)
-- **Email:** your@email.com
+- **Email:** narekchqolian@gmail.com
 
 ## 🚀 Additional Abilities
 - Capable of developing APIs for your web applications.
