@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chqoliann
+- 
+- 👀 I’m interested in programming
+- 
+- 🌱 I’m currently learning python, django framework, and more about programming
