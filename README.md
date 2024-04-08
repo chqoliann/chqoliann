@@ -28,9 +28,7 @@ TeachMentor is my first project, currently in development. It's a website aimed 
 - Eager to learn and grow in the field of development.
 - Interested in machine learning and artificial intelligence technologies.
 
-## Activity Graph
-![Activity Graph](![image](https://github.com/chqoliann/chqoliann/assets/159801789/adcc7caa-de87-4ee5-8236-0fe66cad99de)
-)
+
 
 ## Acknowledgements
 Thanks for stopping by my profile! If you have any questions or suggestions, feel free to reach out to me. I'm always up for discussing ideas or just chatting about code.
