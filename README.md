@@ -29,7 +29,7 @@ TeachMentor is my first project, currently in development. It's a website aimed 
 - Interested in machine learning and artificial intelligence technologies.
 
 ## Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=chqoliann&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
+![Activity Graph](https://profile-summary-for-github.com/user/chqoliann)
 
 ## Acknowledgements
 Thanks for stopping by my profile! If you have any questions or suggestions, feel free to reach out to me. I'm always up for discussing ideas or just chatting about code.
