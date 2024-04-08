@@ -19,9 +19,6 @@ TeachMentor is my first project, currently in development. It's a website aimed 
 ## Programming Languages Stats
 ![Programming Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chqoliann&layout=compact&theme=radical)
 
-## Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=chqoliann&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
-
 ## Contact
 - **LinkedIn:** [Narek Chqolian](https://www.linkedin.com/in/narek-chqolian-0b3b27290/)
 - **Email:** narekchqolian@gmail.com
@@ -30,6 +27,9 @@ TeachMentor is my first project, currently in development. It's a website aimed 
 - Capable of developing APIs for your web applications.
 - Eager to learn and grow in the field of development.
 - Interested in machine learning and artificial intelligence technologies.
+
+## Activity Graph
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=chqoliann&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
 
 ## Acknowledgements
 Thanks for stopping by my profile! If you have any questions or suggestions, feel free to reach out to me. I'm always up for discussing ideas or just chatting about code.
