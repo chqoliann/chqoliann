@@ -1,4 +1,4 @@
-# Hello, I'm Narek Chqolian 👋
+# Hello, I'm Narek Chqolyan 👋
 
 ## About Me
 Hey there! I'm Narek Chqolian, a budding backend developer. My goal is to craft amazing web applications that are not only functional but also beautifully designed. Currently, I'm actively learning Python, Django framework, CSS, and HTML.
