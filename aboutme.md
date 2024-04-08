@@ -23,7 +23,7 @@ TeachMentor is my first project, currently in development. It's a website aimed 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=chqoliann&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
 
 ## Contact
-- **LinkedIn:** [Narek Chqolian](link)
+- **LinkedIn:** [Narek Chqolian](https://www.linkedin.com/in/narek-chqolian-0b3b27290/)
 - **Email:** narekchqolian@gmail.com
 
 ## 🚀 Additional Abilities
