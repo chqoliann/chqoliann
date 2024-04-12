@@ -6,7 +6,6 @@ Hey there! I'm Narek Chqolian, a budding backend developer. My goal is to craft 
 ## Projects
 ### TeachMentor Website
 TeachMentor is my first project, currently in development. It's a website aimed at providing information about programming language courses. Users will be able to access courses on various programming languages after registration.
-
 ## Skills
 - **Python:** My primary programming language. I use it to build powerful backends and scripts.
 - **Django:** The web development framework I use to create scalable web applications.
