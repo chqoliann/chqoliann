@@ -30,6 +30,12 @@ TeachMentor is my first project, currently in development. It's a website aimed 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chqoliann&layout=compact&theme=radical" alt="Programming Languages Stats" />
 </p>
 
+## Monkeytype Typing Speed
+<p align="center">
+  <img src="https://img.shields.io/badge/Monkeytype-100%20WPM-4CAF50?style=for-the-badge&logo=typewriter&logoColor=white" alt="Typing Speed" />
+</p>
+I consistently achieve a typing speed of 100 WPM on Monkeytype. Accurate and fast typing is one of my core skills.
+
 ## Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/narek-chqolian-0b3b27290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
