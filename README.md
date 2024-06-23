@@ -11,7 +11,10 @@ TeachMentor is my first project, currently in development. It's a website aimed 
 - **Python:** My primary programming language. I use it to build powerful backends and scripts.
 - **Django:** The web development framework I use to create scalable web applications.
 - **HTML/CSS:** I use HTML and CSS to craft beautiful and intuitive user interfaces.
+- **Docker:** I use Docker for containerizing applications to ensure consistency across different environments.
 - **Git:** My go-to version control system for managing my projects.
+- **Bitbucket:** Experience with using Bitbucket for version control and collaboration.
+- **Linux:** Comfortable with using Linux for development and deployment tasks.
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chqoliann&show_icons=true&theme=radical)
