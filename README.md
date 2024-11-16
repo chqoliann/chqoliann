@@ -19,7 +19,7 @@ TeachMentor is my first project, currently in development. It's a website aimed 
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chqoliann&show_icons=true&theme=radical" alt="GitHuub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chqoliann&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chqoliann&layout=compact&theme=radical" alt="Programming Languages Stats" />
 </p>
 
