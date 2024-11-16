@@ -1,10 +1,3 @@
-# Hello, I'm Narek Chqolyan 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=chqoliann&style=flat-square&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/chqoliann?style=social)
-
-## About Me
-Hey there! I'm Narek Chqolian, a budding backend developer. My goal is to craft amazing web applications that are not only functional but also beautifully designed. Currently, I'm actively learning Python, Django framework, CSS, and HTML.
 
 ## Projects
 ### TeachMentor Website
