@@ -24,10 +24,10 @@ TeachMentor is my first project, currently in development. It's a website aimed 
 </p>
 
 
-  <a href="mailto:narekchqolian@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="#1 Email"></a>
+  <a href="mailto:narekchqolian@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="#1 Email"></a> 
+</p><a href="mailto:chqolyansargis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="#2 Email"></a>
 </p>
-  <a href="mailto:chqolyansargis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="#2 Email"></a>
-</p>
+  
 
 ## 🚀 Additional Abilities
 - Capable of developing APIs for your web applications.
